@@ -3,6 +3,10 @@ zeroevent
 
 event-handling with PyZMQ, based on Qt's [Event System][qt]
 
+Purpose
+
+- Signal across languages and machines
+
 Alternatives
 
 - http://pydispatcher.sourceforge.net/
