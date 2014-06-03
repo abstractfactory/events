@@ -1,11 +1,11 @@
-zeroevent
+events
 =========
 
-event-handling with PyZMQ, based on Qt's [Event System][qt]
+Python event-handling with ZeromMQ, based on Qt's [Event System][qt]
 
 Purpose
 
-- Signal across languages and machines
+- Signal across threads, processes, languages and machines with one unified library.
 
 Alternatives
 
